@@ -1,5 +1,5 @@
 [package]
-name = "os"
+name = "funiOS"
 version = "0.1.0"
 edition = "2024"
 
@@ -15,7 +15,7 @@ panic = "abort" # disable stack unwinding on panic
 panic = "abort" # disable stack unwinding on panic
 
 [[bin]]
-name = "blog_os"
+name = "funiOS"
 path = "src/main.rs"
 test = false
 bench = false
