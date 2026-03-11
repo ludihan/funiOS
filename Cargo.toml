@@ -16,6 +16,5 @@ panic = "abort" # disable stack unwinding on panic
 
 [[bin]]
 name = "funiOS"
-path = "src/main.rs"
 test = false
 bench = false
