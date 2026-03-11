@@ -1,4 +1,18 @@
 # funiOS
 
-os made in rust, following this tutorial:
-https://os.phil-opp.com/
+the """funiest""" OS ever made!
+
+## Building
+1. Install [Nix](https://nixos.org/)
+2. Enter the development shell:
+```sh
+nix develop
+```
+3. Build and run the kernel inside QEMU:
+```sh
+cargo r
+```
+
+## Useful resources:
+- https://os.phil-opp.com/
+- https://wiki.osdev.org/
