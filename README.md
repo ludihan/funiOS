@@ -13,6 +13,9 @@ nix develop
 cargo r
 ```
 
+## TODO
+- add UEFI support
+
 ## Useful resources:
 - https://os.phil-opp.com/
 - https://wiki.osdev.org/
